@@ -10,18 +10,18 @@ I chose the survey question: **"On a 6 hour flight from NYC to LA, how many time
 ![This is a data wrapper chart](Datawrapper.png)
 
 This is the Table of the Datawrapper Chart
-+------------+------------+
+| ----------- | ----------- |
 | On a 6 hour flight from NYC to LA, how many times is it acceptable to get up if you're not in an aisle seat?  | COUNTA of RespondentID  |
-+============+============+
+| ----------- | ----------- |
 | Three times | 296 |
-+------------+------------+
+| ----------- | ----------- |
 | Twice | 277 |
-+------------+------------+
+| ----------- | ----------- |
 | Four times | 111 |
-+------------+------------+
+| ----------- | ----------- |
 | More than five times times | 91 |
-+------------+------------+
+| ----------- | ----------- |
 | Once | 67 |
-+------------+------------+
+| ----------- | ----------- |
 | It is not okay to get up during flight | 13 |
-+------------+------------+
+| ----------- | ----------- |
